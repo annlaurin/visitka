@@ -3,12 +3,12 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Cognitive Science
+  - course: PhD in Cognitive Science (magna cum laude)
     institution: University of Potsdam
-    year: 2021 (expected defense date - May 2021)
+    year: 2021 
   - course: MSc in Data Science
     institution: University of Potsdam
-    year: ongoing
+    year: 2020 – present
   - course: Diploma in Linguistics
     institution: Moscow State University
     year: 2010
@@ -53,4 +53,6 @@ I am a psycholinguist trying to discover the mechanisms people use to understand
 
 I'm also interested in quantifying reading skills and the factors affecting their development in different populations: monolingual children with and without dyslexia, L2 learners, and sign language speakers.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_english_job_appl.pdf" "newtab" >}}CV{{< /staticref >}}.
+As a postdoc at [Shravan Vasishth](https://vasishth.github.io/)’s lab, I also work on such topics as reproducible statistical analyses and modeling, as well as teach data analysis at the [Summer School on Statistical Methods for Linguistics and Psychology](https://vasishth.github.io/smlp2021/).
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Laurinavichyute.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -1,5 +1,5 @@
 +++
-title = "The contribution of working memory to language comprehension: differential effect of aphasia type"
+title = "The contribution of working memory to language comprehension: Differential effect of aphasia type"
 date = "2015-01-01"
 authors = ["M.V. Ivanova", "O.V. Dragoy", "S.V. Kuptsova", "A.S. Ulicheva", "Anna K. Laurinavichyute"]
 publication_types = ["2"]

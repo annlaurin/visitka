@@ -1,5 +1,5 @@
 +++
-title = "No evidence for strategic nature of age-related slowing in sentence processing."
+title = "No evidence for strategic nature of age-related slowing in sentence processing"
 date = "2018-01-01"
 authors = ["Svetlana Malyutina", "Anna K. Laurinavichyute", "Maria Terekhina", "Yevgeniy Lapin"]
 publication_types = ["2"]
