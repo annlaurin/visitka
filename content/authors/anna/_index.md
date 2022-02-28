@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include cognitive modeling, superficial processing, and open science.
 education:
   courses:
   - course: PhD in Cognitive Science (magna cum laude)

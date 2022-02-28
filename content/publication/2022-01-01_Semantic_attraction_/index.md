@@ -1,17 +1,17 @@
 +++
-title = "Semantic attraction in sentence processing"
-date = "2021-01-01"
+title = "Semantic attraction in sentence comprehension"
+date = "2022-01-01"
 authors = ["Anna K. Laurinavichyute", "Titus von der Malsburg"]
 publication_types = ["2"]
-publication = "Cognitive Science, _pp. under review_, https://doi.org/10.31234/osf.io/hk9nc"
-publication_short = "Cognitive Science, _pp. under review_, https://doi.org/10.31234/osf.io/hk9nc"
+publication = "Cognitive Science, (46), _pp. e13086_, https://doi.org/10.1111/cogs.13086"
+publication_short = "Cognitive Science, (46), _pp. e13086_, https://doi.org/10.1111/cogs.13086"
 abstract = ""
 abstract_short = ""
 image_preview = ""
 selected = false
 projects = []
 tags = []
-url_pdf = "https://doi.org/10.31234/osf.io/hk9nc"
+url_pdf = "https://doi.org/10.1111/cogs.13086"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
