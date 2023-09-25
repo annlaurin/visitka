@@ -1,6 +1,6 @@
 +++
-title = "A cross-linguistic investigation of proactive, similarity-based retrieval interference in sentence comprehension: No support from English, German and Russian eye-tracking data"
-date = "2021-01-01"
+title = "Crosslinguistic evidence against interference from extra-sentential distractors"
+date = "2023-01-01"
 authors = ["Daniela Mertzen", "Anna Laurinavichyute", "Brian W. Dillon", "Ralf Engbert", "Shravan Vasishth"]
 publication_types = ["0"]
 publication = "NA, https://doi.org/10.31234/osf.io/t2j8v"

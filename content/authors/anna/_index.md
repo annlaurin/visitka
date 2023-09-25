@@ -1,5 +1,5 @@
 ---
-bio: My research interests include cognitive modeling, superficial processing, and open science.
+bio: My research interests include cognitive modeling, task demands in sentence processing, and open science.
 education:
   courses:
   - course: PhD in Cognitive Science (magna cum laude)
@@ -14,10 +14,11 @@ education:
 email: anna.laurinavichyute@uni-potsdam.de
 highlight_name: false
 interests:
-- Good-enough processing
+- Task demands in sentence processing
 - Cognitive modeling
 - Research methodology
 - Open science
+- Reading skills in various populations
 organizations:
 - name: University of Potsdam
   url: https://www.uni-potsdam.de/en/university-of-potsdam
