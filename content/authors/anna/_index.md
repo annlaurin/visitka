@@ -49,10 +49,8 @@ superuser: true
 title: Anna Laurinavichyute
 ---
 
-I am a psycholinguist trying to discover the mechanisms people use to understand language, anything we hear or read. I am mostly interested in the shortcuts we use – when a sentence seems to make sense on the surface, sometimes we do not dig too deep and decide that we understand everything perfectly. Some errors and slips of the tongue are really difficult to notice, they seem absolutely fine, while the others jump out at you. I explore how and why, and under which circumstances, we switch superficial language processing on and off.
+I am a cognitive scientist interested in experimental research, computational conitive modeling, and machine learning. In addition to a PhD in Cognitive science, I am currently finishing a MSc degree in Data science, tackling the task of categorizing dyslexic readers based on their eye movements and the properties of the text they read. I'm also interested in quantifying reading skills and the factors affecting their development in L2 learners and sign language speakers.
 
-I'm also interested in quantifying reading skills and the factors affecting their development in different populations: monolingual children with and without dyslexia, L2 learners, and sign language speakers.
-
-As a postdoc at [Shravan Vasishth](https://vasishth.github.io/)’s lab, I also work on such topics as reproducible statistical analyses and modeling, as well as teach data analysis at the [Summer School on Statistical Methods for Linguistics and Psychology](https://vasishth.github.io/smlp2021/).
+As a postdoc at [Shravan Vasishth](https://vasishth.github.io/)’s lab, I also work on such topics as reproducible statistical analyses and computational modeling of sentence processing, as well as teach data analysis at the [Summer School on Statistical Methods for Linguistics and Psychology](https://vasishth.github.io/smlp2024/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Laurinavichyute.pdf" "newtab" >}}CV{{< /staticref >}}.
