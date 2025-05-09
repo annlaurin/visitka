@@ -150,7 +150,7 @@ bibtex_2academic <- function(bibfile,
   apply(mypubs, FUN = function(x) create_md(x), MARGIN = 1)
 }
 
-my_bibfile <- "~/Downloads/Laurinavichyute_publications.bib"
+my_bibfile <- "~/Downloads/CV.bib"
 out_fold   <- "~/Downloads/pub"
 
 bibtex_2academic(bibfile  = my_bibfile, 

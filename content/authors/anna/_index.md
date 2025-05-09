@@ -1,5 +1,5 @@
 ---
-bio: My research interests include cognitive modeling, task demands in sentence processing, and open science.
+bio: My research interests include computational cognitive modeling, machine learning applications in reading research, and open science.
 education:
   courses:
   - course: PhD in Cognitive Science (magna cum laude)
@@ -7,15 +7,15 @@ education:
     year: 2021 
   - course: MSc in Data Science
     institution: University of Potsdam
-    year: 2020 – present
+    year: 2025
   - course: Diploma in Linguistics
     institution: Moscow State University
     year: 2010
-email: anna.laurinavichyute@uni-potsdam.de
+email: anna.laurinavichyute@gmail.com
 highlight_name: false
 interests:
-- Task demands in sentence processing
-- Cognitive modeling
+- Machine learning in reading research
+- Computational cognitive modeling
 - Research methodology
 - Open science
 - Reading skills in various populations
@@ -49,7 +49,7 @@ superuser: true
 title: Anna Laurinavichyute
 ---
 
-I am a cognitive scientist interested in experimental research, computational conitive modeling, and machine learning. In addition to a PhD in Cognitive science, I am currently finishing a MSc degree in Data science, tackling the task of categorizing dyslexic readers based on their eye movements and the properties of the text they read. I'm also interested in quantifying reading skills and the factors affecting their development in L2 learners and sign language speakers.
+I am a cognitive scientist with a strong interest in computational cognitive modeling and the application of machine learning methods to cognitive science problems. In addition to holding a PhD in Cognitive Science, I have earned an MSc in Data Science. My most recent machine learning project involved pre-training and fine-tuning a transformer model to classify readers as dyslexic or typically developing based on their eye movements during reading. I am also interested in quantifying reading skills and investigating the factors that influence their development in second language learners and sign language users.
 
 As a postdoc at [Shravan Vasishth](https://vasishth.github.io/)’s lab, I also work on such topics as reproducible statistical analyses and computational modeling of sentence processing, as well as teach data analysis at the [Summer School on Statistical Methods for Linguistics and Psychology](https://vasishth.github.io/smlp2024/).
 
